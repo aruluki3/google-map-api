@@ -1,0 +1,28 @@
+[
+{
+  "lat": "-6.8919604",
+  "lng": "107.6156133",
+  "alamat": "Dago, Bandung",
+  "keterangan": "Aman ga ada begal",
+  "type": "parking"
+
+},
+{
+  "lat": "-7.7955798",
+  "lng": "110.3694896",
+  "alamat": "Yogyakarta, DIY",
+  "keterangan": "Ayo membaca buku",
+  "type": "library"
+
+},
+{
+  "lat": "-7.2574719",
+  "lng": "112.7520883",
+  "alamat": "Surabaya",
+  "keterangan": "Discon belanja",
+  "type": "info"
+
+},
+
+
+]
